@@ -45,7 +45,6 @@ public class _SWEA_5672_올해의조련사 {
 						}
 					}
 				}
-				
 			}
 			System.out.println("#" + tc + " " + ans);
 		}
